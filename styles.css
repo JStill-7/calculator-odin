@@ -17,9 +17,16 @@
     border: 1px solid black;
 }
 
+.clearBtn {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
 .result {
     grid-column-start: 1;
     grid-column-end: 5;
+    font-size: 38px;
+    color: #FFFF;
 }
 
 .zero {
